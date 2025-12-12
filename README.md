@@ -43,21 +43,21 @@ The intersection of **automation**, **data analytics**, and **great user experie
 ### 🌟 Interests Beyond Code
 
 - 🏎️ **Formula 1** - Data, strategy, and the pure engineering brilliance
-- 📚 **Classic Literature** - Nothing like Dostoevsky to balance out debugging sessions
+- 📚 **Classic Literature** - Nothing like a little reading to balance out debugging sessions
 - ⚽ **Sports** - Staying active and competitive
 
 ### 🤝 Open to Opportunities
 
 I'm actively looking for **job opportunities** and always open to **collaboration** on interesting projects, especially those involving:
-- Full-stack development (Next.js + Python preferred!)
+- Full-stack development
 - Data analytics and visualization
 - Sports tech or F1-related projects
 - Clean architecture and scalable systems
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![www.linkedin.com/in/marcserraitorne](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![mserraitorne@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
 
