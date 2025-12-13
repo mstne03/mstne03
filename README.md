@@ -57,7 +57,6 @@ I'm actively looking for **job opportunities** and always open to **collaboratio
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcserraitorne)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mserraitorne@gmail.com)
 
 ---
 
